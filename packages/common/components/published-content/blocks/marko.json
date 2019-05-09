@@ -1,8 +1,0 @@
-{
-  "tags": {
-    "endeavor-published-content-breadcrumbs": {
-      "template": "./breadcrumbs.marko",
-      "@title": "string"
-    }
-  }
-}
